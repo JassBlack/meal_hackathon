@@ -1,0 +1,107 @@
+body, html {
+	font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	background-color: white;
+	line-height: 30px;
+	font-size: 26px;
+	padding:0;
+	margin:0;
+}
+
+p {
+
+padding: 10px;
+margin: 0;
+}
+
+li {
+	margin-left: 25px;
+}
+
+.header {
+	height: 40px;
+	background-color: #62a5a1;  
+	color:#FFF;
+	padding: 18px 0 16px 25px;
+	margin-bottom: 15px;
+}
+
+.greeting {
+	font-size: 35px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+#diner, #meal {
+	font-size: 35px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+#nutr {
+	font-size: 35px;
+	line-height: 40px;
+}
+
+.wrapper {
+	border: 1px solid white;
+	font-size: 30px;
+	margin-left: 40px;
+}
+.foods {
+	margin: 0;
+	padding: 0;
+	line-height: 48px;
+	list-style: none;
+}
+#myheader { 
+	text-align: left;
+	font-size: 48px;
+	padding:0;
+	margin: 0;}
+#diet {
+	color: #a91414; }
+#energy {
+}
+#takes {
+	color:#000;
+	font-size: 42px;  }
+
+.pls-take {
+	width: 650px;
+	margin: 20px auto 0 auto;
+	font-style: italic;
+}
+
+.left-col {
+	width:380px;
+	float: left;
+}
+
+.left-col::before {
+	content: "";
+	float:right;
+	display: inline-block;
+	height: 326px;
+	width: 1px;
+	border-right: 2px solid #72aeab;
+	vertical-align: center;
+	margin-top: 25px;
+}
+
+.right-col {
+	float: left;
+	background: url("");
+	width: 380px;
+	padding-left:20px;
+	text-align: center;
+}
+
+.image {
+	width: inherit;
+	margin-top: 25px;
+}
+
+.pic {
+	width:90%;
+}
+
