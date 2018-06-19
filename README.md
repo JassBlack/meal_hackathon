@@ -1,3 +1,5 @@
-# meal_hackathon
+# South-Eastern Finland University of Applied Sciences - Meal Hackathon
 
-Hackathon project by Vlad Vishnevskii and Andrei Donchenko
+##2nd place
+
+Redesigning and improving interface of Smart Meal devices.
